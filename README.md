@@ -1,4 +1,4 @@
-# Hi, I'm Cyber Worm 👋
+# Hi, I'm Mehmetali 👋
 
 Cybersecurity enthusiast and software developer focused on **network security, traffic analysis, Linux systems, and security automation**.
 
