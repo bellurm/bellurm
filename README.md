@@ -1,19 +1,16 @@
 # Hi, I'm Mehmetali Bellur
 
-I build Python and Bash tools for network analysis, Linux administration and security automation. My background combines hands-on work in MikroTik-based network environments with software development and technical writing.
+I work across cybersecurity, Linux system administration and security automation, combining hands-on network operations with Python and Bash development. I also develop and operate cwRadar, a production platform involving Linux infrastructure, API security, monitoring and operational automation. My background combines hands-on work in MikroTik-based network environments with software development and technical writing.
 I'm interested in cybersecurity analyst and security automation roles where I can investigate problems, improve operational workflows and turn findings into useful tools.
 
 ## Selected projects
 | Project | What it demonstrates |
-| [SimplePCAP](https://github.com/bellurm/SimplePCAP) | Bash/TShark workflows for PCAP triage and extracting network artifacts. |
-
-| [IP-Subnetting-v2](https://github.com/bellurm/IP-Subnetting-v2) | Python IPv4 calculations, CIDR/netmask handling and binary subnet visualization. |
-
-| [Backup-System](https://github.com/bellurm/Backup-System) | Bash automation for file backups, archive creation and checksums. |
-
-| [blog-cyberworm](https://github.com/bellurm/blog-cyberworm) | A Django publishing application with categories and article management. |
-
-| [Design-Patterns-Tutorial](https://github.com/bellurm/Design-Patterns-Tutorial) | Python examples and Turkish explanations of software design patterns. |
+|---|---|
+| [SimplePCAP](https://github.com/bellurm/SimplePCAP) | Bash/TShark workflows for PCAP triage and network artifact analysis. |
+| [IP-Subnetting-v2](https://github.com/bellurm/IP-Subnetting-v2) | Python IPv4 calculations, CIDR handling and subnet visualization. |
+| [Backup-System](https://github.com/bellurm/Backup-System) | Bash-based backups, archiving and checksum verification. |
+| [blog-cyberworm](https://github.com/bellurm/blog-cyberworm) | Django publishing application and article management. |
+| [Design-Patterns-Tutorial](https://github.com/bellurm/Design-Patterns-Tutorial) | Python examples of software design patterns. |
 
 ## What I work with
 - **Security and networking:** TCP/IP, network troubleshooting, log analysis, Wireshark/TShark, Nmap and MikroTik.
