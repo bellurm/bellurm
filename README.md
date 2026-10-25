@@ -1,37 +1,25 @@
-# Hi, I'm Mehmetali 👋
+# Hi, I'm Mehmetali Bellur
 
-Cybersecurity enthusiast and software developer focused on **network security, traffic analysis, Linux systems, and security automation**.
+I build Python and Bash tools for network analysis, Linux administration and security automation. My background combines hands-on work in MikroTik-based network environments with software development and technical writing.
+I'm interested in cybersecurity analyst and security automation roles where I can investigate problems, improve operational workflows and turn findings into useful tools.
 
-I build practical security tools to analyze network traffic, automate repetitive security tasks, and better understand how protocols and systems behave in real-world environments.
+## Selected projects
+| Project | What it demonstrates |
+| [SimplePCAP](https://github.com/bellurm/SimplePCAP) | Bash/TShark workflows for PCAP triage and extracting network artifacts. |
+| [IP-Subnetting-v2](https://github.com/bellurm/IP-Subnetting-v2) | Python IPv4 calculations, CIDR/netmask handling and binary subnet visualization. |
+| [Backup-System](https://github.com/bellurm/Backup-System) | Bash automation for file backups, archive creation and checksums. |
+| [blog-cyberworm](https://github.com/bellurm/blog-cyberworm) | A Django publishing application with categories and article management. |
+| [Design-Patterns-Tutorial](https://github.com/bellurm/Design-Patterns-Tutorial) | Python examples and Turkish explanations of software design patterns. |
 
-## 🔐 Focus Areas
+## What I work with
+- **Security and networking:** TCP/IP, network troubleshooting, log analysis, Wireshark/TShark, Nmap and MikroTik.
+- **Systems and automation:** Linux, Python, Bash, Git and operational monitoring.
+- **Application development:** Django, FastAPI, SQLite/MySQL and API integrations.
+I also develop and operate [cwRadar](https://cwradar.net/), a Python-based market-analysis platform. This work includes asynchronous processing, Telegram notifications, Linux service operations, monitoring and backup automation.
 
-- Network Security
-- Network Traffic Analysis
-- Defensive Security
-- Security Automation
-- Reconnaissance & Enumeration
-- Linux Security
+## Learning and technical writing
+I publish Turkish-language tutorials on programming, networking, Active Directory and cybersecurity at [Cyber Worm](https://blog-cyberworm.com/), and practice in structured labs on [TryHackMe](https://tryhackme.com/p/cyberworm).
+My repositories include practical utilities, learning exercises and security lab demonstrations. Lab projects are intended for controlled environments with authorization; each repository should be evaluated within its documented scope.
 
-## 🛠 Technologies & Tools
-
-**Languages:** Python · Bash · C# · JavaScript
-
-**Security & Networking:** Nmap · Wireshark · TShark · TCP/IP · PCAP Analysis
-
-**Development:** Linux · Git · Django · CLI Tooling
-
-## 🚀 Current Work
-
-- Building network security and traffic analysis tooling
-- Developing security automation utilities
-- Improving practical detection and analysis workflows
-- Exploring network protocols and defensive security techniques
-
-## 📌 Selected Work
-
-**[SimplePCAP](https://github.com/bellurm/SimplePCAP)** — PCAP triage and network forensic analysis utility.
-
-**[BufferOverflow](https://github.com/bellurm/BufferOverflow)** — Educational exploit development and buffer overflow lab.
-
-**[nmap-basics](https://github.com/bellurm/nmap-basics)** — Interactive Nmap reconnaissance and network scanning toolkit.
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mehmetali-b-9b54461b8/) · [Email](mailto:mehmetalibellur@protonmail.com)
