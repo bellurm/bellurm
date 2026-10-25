@@ -6,9 +6,13 @@ I'm interested in cybersecurity analyst and security automation roles where I ca
 ## Selected projects
 | Project | What it demonstrates |
 | [SimplePCAP](https://github.com/bellurm/SimplePCAP) | Bash/TShark workflows for PCAP triage and extracting network artifacts. |
+
 | [IP-Subnetting-v2](https://github.com/bellurm/IP-Subnetting-v2) | Python IPv4 calculations, CIDR/netmask handling and binary subnet visualization. |
+
 | [Backup-System](https://github.com/bellurm/Backup-System) | Bash automation for file backups, archive creation and checksums. |
+
 | [blog-cyberworm](https://github.com/bellurm/blog-cyberworm) | A Django publishing application with categories and article management. |
+
 | [Design-Patterns-Tutorial](https://github.com/bellurm/Design-Patterns-Tutorial) | Python examples and Turkish explanations of software design patterns. |
 
 ## What I work with
