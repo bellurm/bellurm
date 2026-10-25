@@ -1,22 +1,23 @@
 # Hi, I'm Mehmetali Bellur
 
-I work across cybersecurity, Linux system administration and security automation, combining hands-on network operations with Python and Bash development. I also develop and operate cwRadar, a production platform involving Linux infrastructure, API security, monitoring and operational automation. My background combines hands-on work in MikroTik-based network environments with software development and technical writing.
-I'm interested in cybersecurity analyst and security automation roles where I can investigate problems, improve operational workflows and turn findings into useful tools.
+I focus on security engineering, with hands-on experience in Linux system administration, network security and Python/Bash automation. I develop and operate cwRadar, a production platform where I implement security controls, harden Linux services, monitor security events and improve web/API security.
+
+I enjoy vulnerability research, investigating technical problems and building practical security tools. My career goal is to specialize in security engineering, particularly Linux infrastructure security and security automation.
 
 ## Selected projects
 | Project | What it demonstrates |
 |---|---|
-| [SimplePCAP](https://github.com/bellurm/SimplePCAP) | Bash/TShark workflows for PCAP triage and network artifact analysis. |
-| [IP-Subnetting-v2](https://github.com/bellurm/IP-Subnetting-v2) | Python IPv4 calculations, CIDR handling and subnet visualization. |
-| [Backup-System](https://github.com/bellurm/Backup-System) | Bash-based backups, archiving and checksum verification. |
-| [blog-cyberworm](https://github.com/bellurm/blog-cyberworm) | Django publishing application and article management. |
-| [Design-Patterns-Tutorial](https://github.com/bellurm/Design-Patterns-Tutorial) | Python examples of software design patterns. |
+| [SimplePCAP](https://github.com/bellurm/SimplePCAP) | Bash/TShark-based PCAP triage, traffic analysis and forensic artifact extraction. |
+| [Backup-System](https://github.com/bellurm/Backup-System) | Linux backup automation, SHA-256 integrity verification and cron scheduling. |
+| [Deauth-Detecter](https://github.com/bellurm/Deauth-Detecter) | Python/Scapy-based wireless security monitoring and threshold-based alerts. |
+| [nmap-basics](https://github.com/bellurm/nmap-basics) | Bash automation for network reconnaissance and security scanning. |
+| [BufferOverflow](https://github.com/bellurm/BufferOverflow) | Educational exploitation lab covering fuzzing, offset analysis and proof-of-concept development. |
 
 ## What I work with
-- **Security and networking:** TCP/IP, network troubleshooting, log analysis, Wireshark/TShark, Nmap and MikroTik.
-- **Systems and automation:** Linux, Python, Bash, Git and operational monitoring.
-- **Application development:** Django, FastAPI, SQLite/MySQL and API integrations.
-I also develop and operate [cwRadar](https://cwradar.net/), a Python-based market-analysis platform. This work includes asynchronous processing, Telegram notifications, Linux service operations, monitoring and backup automation.
+- **Linux & Infrastructure Security:** Linux administration, service isolation, SSH/Nginx hardening, access controls and backup integrity.
+- **Security Monitoring & Automation:** Python, Bash, Suricata, Fail2ban, log analysis, security alerting and dependency vulnerability checks.
+- **Application & Network Security:** Web/API hardening, vulnerability analysis, TCP/IP, Wireshark/TShark and Nmap.
+- **Development & Operations:** FastAPI, Django, Git, SQLite/MySQL, asynchronous processing and API integrations.
 
 ## Learning and technical writing
 I publish Turkish-language tutorials on programming, networking, Active Directory and cybersecurity at [Cyber Worm](https://blog-cyberworm.com/), and practice in structured labs on [TryHackMe](https://tryhackme.com/p/cyberworm).
